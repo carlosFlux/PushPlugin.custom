@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.phonegap.plugins.PushPlugin.custom"
-    version="2.2.0">
+    id="ar.com.osde.PushPlugin.custom"
+    version="2.0.0">
 
   <name>PushPluginCustom</name>
-	<author>Bob Easterday</author>
+	<author>C</author>
 
 	<description>
-		This plugin allows your application to receive push notifications on Android, iOS and WP8 devices.
-    Android uses Google Cloud Messaging.
-    iOS uses Apple APNS Notifications.
-    WP8 uses Microsoft MPNS Notifications.
+	d.
 	</description>
 
 	<license>MIT</license>
